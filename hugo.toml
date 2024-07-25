@@ -8,7 +8,7 @@ theme = "spectral"
 
 [params]
 fancyTitle = "Smilegen" # title for frontpage, may include image
-copyright = "Bijil Subhash"
+copyright = ""
 description = 'Deliver fast and reliable real-time Invisalign leads.'
 startbuttonText = "Contact Us"
 startbuttonLink = "#contact"
