@@ -29,7 +29,7 @@ title = "Home"
 
 [params.one]
 enable = true
-title = 'Accelerate Your Invisalign Success <br />with Swift, Dependable Leads.'
+title = 'Accelerate Your Invisalign Success<br /> with Swift, Dependable Leads.'
 body = '''
 Unlock your practice's potential with targeted lead generation that brings in   
 qualified clients, ensuring your Invisalign services thrive.
@@ -47,13 +47,13 @@ body = 'Rely on our expertise and proven track record to deliver high-quality le
 [[params.two.section]]
 img = "images/img-5.jpg"
 img_alt = "invisalign-lead-generation"
-title = 'Driving Your Invisalign <br />Success'
+title = 'Driving Your Invisalign<br /> Success'
 body = 'Harness the power of our targeted strategies to achieve unparalleled growth and client satisfaction.'
 
 [[params.two.section]]
 img = "images/img-4.jpg"
 img_alt = "invisalign-lead-generation"
-title = 'Empowering Your Practice with <br />Digital Precision'
+title = 'Empowering Your Practice with<br /> Digital Precision'
 body = 'Leverage advanced digital tools and data-driven insights to connect with your ideal Invisalign clients.'
 
 [params.contact]
