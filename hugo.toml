@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Smilegen"
+title = "SmileGen"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 paginate = "7"
@@ -7,7 +7,7 @@ theme = "spectral"
 #googleAnalytics = "G-XXXXXXXXXX"
 
 [params]
-fancyTitle = "Smilegen" # title for frontpage, may include image
+fancyTitle = "SmileGen" # title for frontpage, may include image
 copyright = ""
 description = 'Deliver fast and reliable real-time Invisalign leads.'
 startbuttonText = "Contact Us"
