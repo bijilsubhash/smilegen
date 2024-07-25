@@ -15,8 +15,6 @@ startbuttonLink = "#contact"
 body_is_markdown = true
 #custom_css = "foo.css"
 #custom_sass = "bar.scss"
-images = ["img/pexels-cedric-fauntleroy-4269363.jpg"]
-img = "img/pexels-cedric-fauntleroy-4269363.jpg"
 
 [[params.menu.main]]
 url = '/'
@@ -29,7 +27,7 @@ title = "Home"
 
 [params.one]
 enable = true
-title = 'Accelerate Your Invisalign Success<br /> with Swift, Dependable Leads.'
+title = 'Accelerate Your Invisalign Success <br /> with Swift, Dependable Leads.'
 body = '''
 Unlock your practice's potential with targeted lead generation that brings in   
 qualified clients, ensuring your Invisalign services thrive.
@@ -41,19 +39,19 @@ enable = true
 [[params.two.section]]
 img = "images/img-1.jpg"
 img_alt = "invisalign-lead-generation"
-title = 'Your Trusted Partner in<br /> Lead Generation'
+title = 'Your Trusted Partner in <br /> Lead Generation'
 body = 'Rely on our expertise and proven track record to deliver high-quality leads that convert.'
 
 [[params.two.section]]
 img = "images/img-5.jpg"
 img_alt = "invisalign-lead-generation"
-title = 'Driving Your Invisalign<br /> Success'
+title = 'Driving Your Invisalign <br /> Success'
 body = 'Harness the power of our targeted strategies to achieve unparalleled growth and client satisfaction.'
 
 [[params.two.section]]
 img = "images/img-4.jpg"
 img_alt = "invisalign-lead-generation"
-title = 'Empowering Your Practice with<br /> Digital Precision'
+title = 'Empowering Your Practice with <br /> Digital Precision'
 body = 'Leverage advanced digital tools and data-driven insights to connect with your ideal Invisalign clients.'
 
 [params.contact]
