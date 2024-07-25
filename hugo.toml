@@ -41,7 +41,7 @@ enable = true
 [[params.two.section]]
 img = "images/img-1.jpg"
 img_alt = "invisalign-lead-generation"
-title = 'Your Trusted Partner in <br />Lead Generation'
+title = 'Your Trusted Partner in<br /> Lead Generation'
 body = 'Rely on our expertise and proven track record to deliver high-quality leads that convert.'
 
 [[params.two.section]]
