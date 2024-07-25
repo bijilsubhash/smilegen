@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "SMILEGEN"
+title = "Smilegen"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 paginate = "7"
